@@ -76,6 +76,10 @@ a:hover {
   color: black;
 }
 
+.menu {
+  padding: 15px;
+}
+
 ul {
   width: 90vw;
   margin: 0 10vh;
